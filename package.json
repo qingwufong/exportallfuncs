@@ -1,0 +1,15 @@
+{
+    "name": "exportallfuncs",
+    "version": "0.0.1",
+    "description": "change all functions of source code file to like `exports.funcName`",
+    "main": "exportallfuncs.js",
+    "bin": {
+        "exportallfuncs": "./exportallfuncs.js"
+    },
+    "keywords": [],
+    "author": "mgtfang",
+    "license": "ISC",
+    "dependencies": {
+        "recast": "^0.18.2"
+    }
+}
